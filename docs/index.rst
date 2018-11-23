@@ -15,12 +15,6 @@ The wordcount program is a python script, which reads an input file and writes t
 
    usage
    contribution
-   Ask some questions, ask PajNath
+   AskQuestions
 
-==== =======
-km/s density
-==== ======
-35   4
-45   0.3
-100  20
-==== ======
+
